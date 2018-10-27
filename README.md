@@ -1,5 +1,5 @@
 # HelloRetrofit
-A hello retrofit demo of RESTFUL API GET/PUT.
+A hello retrofit demo of RESTful API GET and PUT.
 
 > 图为： app entry 
 <img src="https://github.com/tingkts/HelloRetrofit/blob/master/app_screenshot_1.entry.png" width="25%" height="25%" />
