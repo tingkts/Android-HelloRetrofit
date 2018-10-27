@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloRetrofit</string>
+    <string name="username_password"> username: "test2@qq.com"\npassword: "test1234qq"</string>
+    <string name="login">log in</string>
+    <string name="wait_for_user_data">waiting for user data...</string>
+    <string name="change_user_data_of_timezone">change user data of timezone: 8</string>
+</resources>
