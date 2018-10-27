@@ -19,7 +19,8 @@ public interface LoginApi {
 
     @Headers({
             "X-Parse-Application-Id: vqYuKPOkLQLYHhk4QTGsGKFwATT4mBIGREI2m8eD",
-            "X-Parse-REST-API-Key: "
+            "X-Parse-REST-API-Key: ",
+            "X-Parse-Revocable-Session: 1"
     })
     @GET("api/login")
     Call<User> getUser(@Query("username") String username, @Query("password") String password);
